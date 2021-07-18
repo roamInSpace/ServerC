@@ -1,0 +1,7 @@
+D:\Works\VSCsharp\ServerC\ServerC\obj\Debug\ServerC.csprojAssemblyReference.cache
+D:\Works\VSCsharp\ServerC\ServerC\obj\Debug\ServerC.csproj.CoreCompileInputs.cache
+D:\Works\VSCsharp\ServerC\ServerC\bin\Debug\ServerC.exe.config
+D:\Works\VSCsharp\ServerC\ServerC\bin\Debug\ServerC.exe
+D:\Works\VSCsharp\ServerC\ServerC\bin\Debug\ServerC.pdb
+D:\Works\VSCsharp\ServerC\ServerC\obj\Debug\ServerC.exe
+D:\Works\VSCsharp\ServerC\ServerC\obj\Debug\ServerC.pdb
